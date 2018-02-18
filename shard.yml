@@ -1,0 +1,9 @@
+name: radix
+version: 0.1.0
+
+authors:
+  - Johannes Müller <straightshoota@gmail.com>
+
+crystal: 0.24.1
+
+license: MIT
